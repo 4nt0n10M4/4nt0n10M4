@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, I'm Antonio. 👋
+I develop websites, bots, apps, backend...
 <!--
 **4nt0n10M4/4nt0n10M4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **a lot** of projects (duh)
+- 📫 How to reach me: 
+  - 💬 [t.me/antoniom](https://t.me/antoniom)
+  - 📧 antonioma@pm.me
+  - 🌐 [antonioma.com](https://antonioma.com)

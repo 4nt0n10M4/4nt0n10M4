@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **a lot** of projects (duh)
+- 🔭 I’m currently working on a lot of projects
 - 📫 How to reach me: 
   - 💬 [t.me/antoniom](https://t.me/antoniom)
   - 📧 antonioma@pm.me
